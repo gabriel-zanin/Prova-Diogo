@@ -32,3 +32,9 @@ C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Prova-Diogo\Prova-Diogo\obj\Debug\net5.0\ref\Prova-Diogo.dll
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Prova-Diogo\Prova-Diogo\obj\Debug\net5.0\Prova-Diogo.pdb
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Prova-Diogo\Prova-Diogo\obj\Debug\net5.0\Prova-Diogo.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\prova-diogo\prova-diogo\bin\Debug\net5.0\FRONT\angular.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\prova-diogo\prova-diogo\bin\Debug\net5.0\FRONT\package-lock.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\prova-diogo\prova-diogo\bin\Debug\net5.0\FRONT\package.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\prova-diogo\prova-diogo\bin\Debug\net5.0\FRONT\tsconfig.app.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\prova-diogo\prova-diogo\bin\Debug\net5.0\FRONT\tsconfig.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\prova-diogo\prova-diogo\bin\Debug\net5.0\FRONT\tsconfig.spec.json
