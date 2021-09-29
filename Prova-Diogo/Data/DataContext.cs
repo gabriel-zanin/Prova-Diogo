@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using PetShop.Models;
+using CrudMusic.Models;
 
-namespace PetShop.Data
+namespace CrudMusic.Data
 {
     public class DataContext : DbContext
     {
@@ -10,9 +10,7 @@ namespace PetShop.Data
         
         //Lista de propriedades das classes de  modelo que vão virar tabelas no banco
 
-        public DbSet<Pessoa> Pessoas { get; set; }
-        public DbSet <Pet> Pets { get; set; }
-        public DbSet <Servico> Servicos { get; set; }
-        public DbSet <OS> Os_s { get; set; }
+        public DbSet<Music> Musics { get; set; }
+
     }
 }

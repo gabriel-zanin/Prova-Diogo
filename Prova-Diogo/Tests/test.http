@@ -1,21 +1,15 @@
 ### Cadastrar Pessoa
-POST https://localhost:5001/petshop/pessoa/create
+POST https://localhost:5001/crudmusic/music/create
 Content-Type: application/json
 
 {
-"Nome" : "José",
-"Funcao" : "Limpador"
+"Nome" : "Self Esteem",
+"AnoLancamento" : 1693,
+"Artista" : "OffSpring",
+"EstiloMusical": "Punk-Rock"
+
 }
 
-### Cadastrar Pet
-POST https://localhost:5001/petshop/pet/create
-Content-Type: application/json
-
-{
-"Nome" : "Tigre",
-"Dono" : "Jose",
-"TipoAnimal" : "Gato"
-}
 
 ### Listar Pets
 

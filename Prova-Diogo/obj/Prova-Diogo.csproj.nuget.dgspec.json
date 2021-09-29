@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Prova-Diogo\\Prova-Diogo\\Prova-Diogo.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\prova-diogo\\prova-diogo\\Prova-Diogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Prova-Diogo\\Prova-Diogo\\Prova-Diogo.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\prova-diogo\\prova-diogo\\Prova-Diogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Prova-Diogo\\Prova-Diogo\\Prova-Diogo.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\prova-diogo\\prova-diogo\\Prova-Diogo.csproj",
         "projectName": "Prova-Diogo",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Prova-Diogo\\Prova-Diogo\\Prova-Diogo.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\prova-diogo\\prova-diogo\\Prova-Diogo.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Prova-Diogo\\Prova-Diogo\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\prova-diogo\\prova-diogo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
