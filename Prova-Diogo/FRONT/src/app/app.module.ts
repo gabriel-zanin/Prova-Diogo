@@ -5,11 +5,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClient } from '@angular/common/http';
 import { CadastrarComponent } from './components/views/cadastrar/cadastrar.component';
+import { ListarMusicaComponent } from './components/views/musicas/listar-musica/listar-musica.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CadastrarComponent,
+    ListarMusicaComponent,
 
   ],
   imports: [
