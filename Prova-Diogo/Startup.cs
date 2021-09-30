@@ -27,6 +27,12 @@ namespace Prova_Diogo
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddCors(
+
+                options => {
+                    options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin());
+                }
+            );
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -43,6 +49,8 @@ namespace Prova_Diogo
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Prova_Diogo v1"));
             }
+
+            app.UseCors("CorsPolicy");
 
             app.UseHttpsRedirection();
 
