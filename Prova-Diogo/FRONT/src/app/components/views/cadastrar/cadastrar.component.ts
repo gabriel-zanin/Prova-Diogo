@@ -10,6 +10,15 @@ export class CadastrarComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
+    cadastrar(); void{
+
+
+    }
   }
 
 }
+function cadastrar() {
+  throw new Error('Function not implemented.');
+}
+
